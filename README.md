@@ -45,6 +45,15 @@
 
 ### @Ironhack
 
+#### Groove Grid Project 
+
+[![Frontend: React](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react)](https://github.com/chuinga/GrooveGrid?tab=readme-ov-file)
+
+[![Backend: REST API](https://img.shields.io/badge/Backend-REST_API-009688?style=for-the-badge&logo=rest)](https://github.com/chuinga/GrooveGrid-backend)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 #### Hero Compare Project
 
 [![Frontend: React](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react)](https://github.com/HChughtai98/Hero_Compare)
