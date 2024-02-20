@@ -47,7 +47,8 @@
 
 ####  Project
 
-[![Recipe-Book](https://img.shields.io/badge/Recipe_Book-react-61DAFB?style=for-the-badge&logo=react)]([(https://github.com/gudwalMJ/Recipe-Book)](https://github.com/gudwalMJ/Recipe-Book/tree/main))
+[![Recipe-Book](https://img.shields.io/badge/Recipe_Book-react-61DAFB?style=for-the-badge&logo=react)](https://github.com/gudwalMJ/Recipe-Book)
+
 
 ### @Ironhack
 
