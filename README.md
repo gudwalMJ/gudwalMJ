@@ -2,19 +2,9 @@
 
 -✏️ Full Stack Developer
 
--🎓 Educated in web development at Ironhack's coding bootcamp
-
 -🇭🇷 Croatian, residing in 🇳🇱
 
 -🌐 Bilingual (English and Croatian)
-
--🚀 Driven by a passion for lifelong learning, I'm dedicated to daily mastery of new tech and methods
-
--🍴 Transitioned from Executive Sous Chef to tech, bringing unique skills in organization, leadership, and creative problem-solving
-
--🤝 Utilizing my culinary soft skills, I excel in fostering teamwork and productivity in tech environments
-
--🎯 Career goal: To blend my technical abilities with my creative and leadership skills to innovate and excel in challenging projects
 
 ## Favourite Stack
 
