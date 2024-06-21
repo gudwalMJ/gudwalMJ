@@ -1,20 +1,18 @@
 ## Hello 👋, my name is Josip and currently I'm:
 
--✏️ Full Stack Developer
-
--🇭🇷 Croatian, residing in 🇳🇱
-
--🌐 Bilingual (English and Croatian)
+- ✏️ Junior Full-Stack Developer specializing in MERN Stack
+- 🇭🇷 Croatian, residing in 🇳🇱
+- 🌐 Bilingual (English and Croatian)
 
 ## Favourite Stack
 
 ### Languages:
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### Frameworks:
+### Frameworks and Runtime:
 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### Database:
 
@@ -35,17 +33,19 @@
 
 ### After Ironhack
 
-####  Project
+#### Recipe Book
 
 [![Recipe-Book](https://img.shields.io/badge/Recipe_Book-react-61DAFB?style=for-the-badge&logo=react)](https://github.com/gudwalMJ/Recipe-Book)
 
+#### CookBook (In Progress)
+
+[![CookBook](https://img.shields.io/badge/CookBook-in_progress-61DAFB?style=for-the-badge&logo=react)](https://github.com/gudwalMJ/CookBook)
 
 ### @Ironhack
 
-#### Groove Grid Project 
+#### Groove Grid Project
 
 [![Frontend: React](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react)](https://github.com/chuinga/GrooveGrid?tab=readme-ov-file)
-
 [![Backend: REST API](https://img.shields.io/badge/Backend-REST_API-009688?style=for-the-badge&logo=rest)](https://github.com/chuinga/GrooveGrid-backend)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -54,7 +54,6 @@
 #### Hero Compare Project
 
 [![Frontend: React](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react)](https://github.com/HChughtai98/Hero_Compare)
-
 [![Backend: REST API](https://img.shields.io/badge/Backend-REST_API-009688?style=for-the-badge&logo=rest)](https://github.com/HChughtai98/Hero_Compare_Backend)
 
 #### Ironhack Marketplace Project
@@ -68,9 +67,7 @@
 ## Social Networks
 
 <div align="left">
-  <a href="www.linkedin.com/in/josip-milan" target="_blank">
+  <a href="https://www.linkedin.com/in/josip-milan" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="32" alt="linkedin logo"  />
   </a>
-  
-  
 </div>
